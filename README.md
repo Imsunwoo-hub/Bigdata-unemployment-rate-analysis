@@ -18,19 +18,19 @@
   
 # 군집화
 
-<img src="./MD_imgs/clus1.PNG" alt="logo" width="50" height="50" />
-<img src="./MD_imgs/clus2.PNG" alt="logo" width="50" height="50" />
-<img src="./MD_imgs/clus3.PNG" alt="logo" width="50" height="50" />
+<img src="./MD_imgs/clus1.PNG" alt="logo" style="zoom:60%;" />
+<img src="./MD_imgs/clus2.PNG" alt="logo" style="zoom:60%;" />
+
 
 # 데이터 셋
 
-<img src="./MD_imgs/dataset.PNG" alt="logo" width="50" height="50" />
+<img src="./MD_imgs/dataset.PNG" alt="logo" style="zoom:60%;" />
 
 
 # 상관관계 및 분석결과
 
-<img src="./MD_imgs/result1.PNG" alt="logo" width="50" height="50" />
-<img src="./MD_imgs/result2.PNG" alt="logo" width="50" height="50" />
+<img src="./MD_imgs/result1.PNG" alt="logo" style="zoom:60%;" />
+<img src="./MD_imgs/result2.PNG" alt="logo" style="zoom:60%;" />
 
   
 
