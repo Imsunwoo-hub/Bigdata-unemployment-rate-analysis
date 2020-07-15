@@ -17,18 +17,19 @@
   - 실업률과 군집간의 상관관계 분석 및 실업률 예측
   
 # 군집화
-
+  - word2vec의 most_similar() 함수를 활용한 유사단어 추출
 <img src="./MD_imgs/clus1.PNG" alt="logo" style="zoom:60%;" />
+  - 유사단어끼리 군집화
 <img src="./MD_imgs/clus2.PNG" alt="logo" style="zoom:60%;" />
 
 
 # 데이터 셋
-
+  - 군집에 포함된 단어 수/전체 단어 수 + 실업률 데이터 
 <img src="./MD_imgs/dataset.PNG" alt="logo" style="zoom:60%;" />
 
 
 # 상관관계 및 분석결과
-
+- 뉴스에 경제 관련 키워드가 증가할수록 실업률 증가
 <img src="./MD_imgs/result1.PNG" alt="logo" style="zoom:60%;" />
 <img src="./MD_imgs/result2.PNG" alt="logo" style="zoom:60%;" />
 
